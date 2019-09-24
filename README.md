@@ -21,4 +21,4 @@ discrete 1d and 2d fractional fourier transfrom in python
 
 - returns the frft spectrum of f
   
-### this code is translated from its matlab version. a senpai gave it to me and i dont know its origin.
+### this code is translated from its matlab version, and i actually dont know how the algorithm works xd. a senpai gave it to me and i dont know its origin.
